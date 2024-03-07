@@ -12,7 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #a3c1ec;
+    background-color: #dce9fc;
     font-family: sans-serif;
 }
 .container {
@@ -54,7 +54,7 @@ body {
     font-size: 0.8rem;
 }
 .login__form__right form button {
-    background-color: rgb(168, 125, 168);
+    background-color: rgb(241, 1, 241);
     border: none;
     color: #fff;
     font-size: 1rem;
@@ -64,7 +64,7 @@ body {
     transition: background .2s ease;
 }
 .login__form__right form button:hover {
-    background-color: rgb(116, 84, 116);
+    background-color: rgb(141, 81, 141);
  
 }
 
